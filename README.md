@@ -64,7 +64,7 @@ Thanks for checking in! Still under review — will update you soon.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/ananyar3399/smart-email-reply-generator.git
-cd email-reply-generator
+cd smart-email-reply-generator
 ```
 
 ### 2. Install dependencies
